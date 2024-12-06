@@ -1,0 +1,11 @@
+[12/06/2024 11:59:43 AM] ERROR — (5) : Ui_question.setupUi() missing 1 required positional argument: 'message'
+Traceback (most recent call last):
+  File "c:\Users\gregi\Documents\nico\final\projet_python\ask_question.py", line 71, in <module>
+    ui.setupUi(Dialog)
+TypeError: Ui_question.setupUi() missing 1 required positional argument: 'message'
+[12/06/2024 12:01:17 PM] INFO — Appel de la page de création de compte (register.py) depuis le menu de connexion (menu.py)
+[12/06/2024 12:01:51 PM] DEBUG — Starting new HTTPS connection (1): api.pwnedpasswords.com:443
+[12/06/2024 12:01:51 PM] DEBUG — https://api.pwnedpasswords.com:443 "GET /range/29C4E HTTP/11" 200 None
+[12/06/2024 12:02:00 PM] DEBUG — Starting new HTTPS connection (1): api.pwnedpasswords.com:443
+[12/06/2024 12:02:00 PM] DEBUG — https://api.pwnedpasswords.com:443 "GET /range/29C4E HTTP/11" 200 None
+[12/06/2024 12:02:05 PM] INFO — Nouvel utilisateur inscrit : batou
